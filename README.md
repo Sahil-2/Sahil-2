@@ -20,7 +20,7 @@
   <img align="right" alt="GIF" src="https://github.com/Sahil-2/Sahil-2/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 📫 Feel free to drop me an [Email](mailto:Sahilk@iitk.ac.in) or connect on social media if you are interested in having a chat. :)
-- 💬 Ask me about anything, I would be happy to help. <br> <br> <br> <br>
+- 💬 Ask me about anything, I would be happy to help. <br> <br> 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp;Internships and Projects</b>
 <br>
@@ -29,7 +29,7 @@
   * Full-Stack Developer Intern: Exam Lounge <br>
   * Crown Ecommerce Store <br>
   * Smart Brain Web App<br>
-  * Zoom Teleconferencing Web App <br>
+  * Zoom Teleconferencing Web App <br> <br>
   
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;Languages and Tools</b>
 <br><br>
