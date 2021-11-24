@@ -15,7 +15,7 @@
 - I enjoy the process of learning new things and using them to build something.<br>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Sahil-2/Sahil-2/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 📫 Feel free to drop me an [Email](mailto:abhishek.naidu@cred.club) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help;
