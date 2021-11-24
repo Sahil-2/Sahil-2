@@ -15,7 +15,7 @@
 
 - Hi, I'm [Sahil Khan](https://sahilk.netlify.app/), I am a senior year undergraduate at IIT Kanpur majoring in Electrical Engineering. <br>
 - I am passionate about web development and dreaming up ideas and making them come true with elegant interfaces. <br>
-- I enjoy the process of learning new things and using them to build something.<br>
+- I enjoy the process of learning new things and using them to build something.<br> <br> <br>
 
 
   <img align="right" alt="GIF" src="https://github.com/Sahil-2/Sahil-2/blob/main/code.gif?raw=true" width="500" height="320" />
