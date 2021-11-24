@@ -21,7 +21,6 @@
 - 💬 Ask me about anything, I would be happy to help;
 
 <br>
-<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Internships and Projects***
 <p align="left">
 
@@ -30,6 +29,7 @@
   * Crown Ecommerce Store <br>
   * Smart Brain Web App<br>
   * Zoom Teleconferencing Web App <br>
+  <br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools***
 <p align="left">
 
