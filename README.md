@@ -8,8 +8,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Sahil-2.Sahil-2)
-
 <br />
 
 - Hi, I'm [Sahil Khan](https://sahilk.netlify.app/), I am a senior year undergraduate at IIT Kanpur majoring in Electrical Engineering. <br>
@@ -20,12 +18,12 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 📫 Feel free to drop me an [Email](mailto:abhishek.naidu@cred.club) or connect on social media if you are interested in having a chat. :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I would be happy to help;
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
