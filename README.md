@@ -20,11 +20,14 @@
 - 📫 Feel free to drop me an [Email](mailto:abhishek.naidu@cred.club) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help;
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Projects and Internships***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Internships and Projects***
 <p align="left">
-✔ 
-✔ Completed Projects & Internship : <br><b><br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
-
+<br>
+  * Full-Stack Developer Intern: C3i Hub <br>
+  * Full-Stack Developer Intern: Exam Lounge <br>
+  * Crown Ecommerce Store <br>
+  * Smart Brain Web App<br>
+  * Zoom Teleconferencing Web App <br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools***
 <p align="left">
 
