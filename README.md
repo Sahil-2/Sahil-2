@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/SAHILKHAN2312000131/">
   <img align="left" alt="Sahil's Facebook" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
- <a href = "mailto: sahilsundaiit@gmail.com">
+ <a href = "mailto: Sahilkhan2312000131@gmail.com">
   <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="22" />
 </a>
 
