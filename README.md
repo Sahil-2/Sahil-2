@@ -24,7 +24,7 @@
 - 💬 Ask me about anything, I would be happy to help;
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp;Internships and Projects</b>
-<br><br>
+<br>
 
   * Full-Stack Developer Intern: C3i Hub <br>
   * Full-Stack Developer Intern: Exam Lounge <br>
