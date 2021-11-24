@@ -19,8 +19,8 @@ I enjoy the process of learning new things and using them to build something.<br
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Feel free to drop me an [email](mailto:abhishek.naidu@cred.club) or connect on social media if you are interested in having a chat. :)
+- 💬 Ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
