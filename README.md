@@ -12,9 +12,9 @@
 
 <br />
 
--Hi, I'm [Sahil Khan](https://sahilk.netlify.app/), I am a senior year undergraduate at IIT Kanpur majoring in Electrical Engineering. <br>
--I am passionate about web development and dreaming up ideas and making them come true with elegant interfaces. <br>
--I enjoy the process of learning new things and using them to build something.<br>
+- Hi, I'm [Sahil Khan](https://sahilk.netlify.app/), I am a senior year undergraduate at IIT Kanpur majoring in Electrical Engineering. <br>
+- I am passionate about web development and dreaming up ideas and making them come true with elegant interfaces. <br>
+- I enjoy the process of learning new things and using them to build something.<br>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
