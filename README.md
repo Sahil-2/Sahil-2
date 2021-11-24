@@ -20,9 +20,11 @@
 - 📫 Feel free to drop me an [Email](mailto:abhishek.naidu@cred.club) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help;
 
+<br>
+<br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Internships and Projects***
 <p align="left">
-<br>
+
   * Full-Stack Developer Intern: C3i Hub <br>
   * Full-Stack Developer Intern: Exam Lounge <br>
   * Crown Ecommerce Store <br>
