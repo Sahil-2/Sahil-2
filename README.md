@@ -7,7 +7,7 @@
   <img align="left" alt="Sahil's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
  <a href = "mailto: sahilsundaiit@gmail.com">
-  <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="22" width="20" />
+  <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="22" />
 </a>
 
 
