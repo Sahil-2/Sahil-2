@@ -7,7 +7,7 @@
   <img align="left" alt="Sahil's Facebook" width="26px" src="https://github.com/Sahil-2/Sahil-2/blob/main/Social/fb_icon_325x325.png" />
 </a>
  <a href = "mailto: Sahilkhan2312000131@gmail.com">
-  <img align="center" src="https://github.com/Sahil-2/Sahil-2/blob/main/Social/download.png" height="27" width="27"/>
+  <img align="center" src="https://github.com/Sahil-2/Sahil-2/blob/main/Social/download%20(2).png" />
 </a>
 
 
