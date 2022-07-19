@@ -1,6 +1,6 @@
 ### Hey there !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/sahil-2/">
+<a href="https://www.linkedin.com/in/sahiliitk/">
   <img align="left" alt="Sahil | Linkedin" width="26px" src="https://github.com/Sahil-2/Sahil-2/blob/main/Social/download%20(1).png" />
 </a>
 <a href="https://www.facebook.com/SAHILKHAN2312000131/">
